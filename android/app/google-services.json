@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "321357522673",
+    "project_id": "becevents-b2056",
+    "storage_bucket": "becevents-b2056.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321357522673:android:6c75e68bd6f686fffa2b50",
+        "android_client_info": {
+          "package_name": "com.example.demo_bec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321357522673-q22gf4da92mhn5k7n5gdfuvd3n86ci98.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.demo_bec",
+            "certificate_hash": "f93d1e004fcb5c9cff0a09160d99180d715cc6f3"
+          }
+        },
+        {
+          "client_id": "321357522673-gec5hl0s7q2fmgbqgq96ujrkni6nqtlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDis3DBR_V4PXoakbZLQqFBxmntDkP0EqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321357522673-gec5hl0s7q2fmgbqgq96ujrkni6nqtlj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
